@@ -1,4 +1,4 @@
-# 🎬 MoviesForYou
+#  MoviesForYou
 
 A content-based movie recommendation web app built with Python and Streamlit.
 Pick a movie you like and get 5 to 10 similar movies, shown as Netflix-style poster cards.
